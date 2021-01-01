@@ -45,7 +45,7 @@ async function getQuote() {
   }
 }
 
-//Tweet quote
+//Tweet Quote
 
 function tweetQuote() {
   const quote = quoteText.innerText;
